@@ -51,15 +51,15 @@
     <hr size="3" noshade>
     <h3>Work Experience</h3>
     <table cellspacing="10">
-      <thead>
+      
         <tr>
           <th>Year</th>
           <th>Work</th>
         </tr>
         <tr></tr>
-      </thead>
       
-      <tbody>
+      
+      
         <tr>
           <td>2018-2022</td>
           <td>B.Sc in Computer Science & Engineering.</td>
@@ -67,8 +67,8 @@
           <tr>
             <td>2015-2017</td>
             <td>H.S.c</td>
-        </tbody>
-      <tfoot></tfoot>
+        
+      
       </tr>
     </table >
     <hr size="3" noshade>
